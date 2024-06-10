@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Projet Bojap</string>
+
+    <string name="image_contentDescription">image</string>
+    <string name="intro_text_description">Application de réseau d\'entreprise. Vous pouvez renseigner vos activités dedans.</string>
+    <string name="sign_in">SE CONNECTER</string>
+    <string name="sign_up">S\'INSCRIRE</string>
+
+    <string name="sign_up_description_text">Entrez votre nom, mail et mot de passe :</string>
+    <string name="name">Nom</string>
+    <string name="password">Mot de passe</string>
+    <string name="email">Mail</string>
+
+    <string name="sign_in_description_text">Entrez votre nom, mail et mot de passe :</string>
+
+    <string name="please_click_back_again_to_exit">Cliquez pour sortir</string>
+    <string name="please_wait">En cours&#8230;</string>
+
+    <string name="nav_my_profile">Mon profil</string>
+    <string name="nav_sign_out">Déconnexion</string>
+
+    <string name="mobile">Mobile</string>
+    <string name="update">Mise à jour</string>
+    <string name="my_profile">Mon profil</string>
+
+    <string name="create_board_title">Créer un tableau</string>
+    <string name="create">CREER</string>
+    <string name="board_name">Nom du tableau</string>
+
+    <string name="no_boards_are_available">Pas de tableau disponible</string>
+
+    <string name="action_add_list">Ajoutez une liste</string>
+    <string name="hint_list_name">Nom de la liste</string>
+    <string name="action_add_card">Ajoutez une card</string>
+    <string name="hint_card_name">Nom de la carte</string>
+    <string name="add_list">Ajouter la liste</string>
+</resources>
